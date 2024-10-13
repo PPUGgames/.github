@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+This is a github Page that you can make Pull requests And i might add to My Games Web Page.
 <!--
 
 **Here are some ideas to get you started:**
